@@ -1,0 +1,30 @@
+C:\Users\ismailaktas\source\repos\BilgiYarışması\BilgiYarışması\bin\Debug\BilgiYarışması.exe.config
+C:\Users\ismailaktas\source\repos\BilgiYarışması\BilgiYarışması\bin\Debug\BilgiYarışması.exe
+C:\Users\ismailaktas\source\repos\BilgiYarışması\BilgiYarışması\bin\Debug\BilgiYarışması.pdb
+C:\Users\ismailaktas\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.csprojAssemblyReference.cache
+C:\Users\ismailaktas\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Form1.resources
+C:\Users\ismailaktas\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Properties.Resources.resources
+C:\Users\ismailaktas\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.csproj.GenerateResource.cache
+C:\Users\ismailaktas\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.csproj.CoreCompileInputs.cache
+C:\Users\ismailaktas\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.exe
+C:\Users\ismailaktas\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.pdb
+C:\Users\ismailaktas\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Form2.resources
+C:\Users\ismailaktas\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Form3.resources
+C:\Users\ismailaktas\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Form4.resources
+C:\Users\ismailaktas\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Form5.resources
+C:\Users\ismailaktas\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Form6.resources
+C:\Visual Studio\BilgiYarışması\BilgiYarışması\bin\Debug\BilgiYarışması.exe.config
+C:\Visual Studio\BilgiYarışması\BilgiYarışması\bin\Debug\BilgiYarışması.exe
+C:\Visual Studio\BilgiYarışması\BilgiYarışması\bin\Debug\BilgiYarışması.pdb
+C:\Visual Studio\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.csprojAssemblyReference.cache
+C:\Visual Studio\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Form1.resources
+C:\Visual Studio\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Form2.resources
+C:\Visual Studio\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Form3.resources
+C:\Visual Studio\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Form4.resources
+C:\Visual Studio\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Form5.resources
+C:\Visual Studio\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Form6.resources
+C:\Visual Studio\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Properties.Resources.resources
+C:\Visual Studio\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.csproj.GenerateResource.cache
+C:\Visual Studio\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.csproj.CoreCompileInputs.cache
+C:\Visual Studio\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.exe
+C:\Visual Studio\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.pdb
